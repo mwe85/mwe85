@@ -2,9 +2,9 @@
 - 👀 I’m interested in web development, embeded stuff, rust, javascript, nodejs, c++
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 🚧 wip portfolio: 
+- 🚧 wip portfolio: https://mwe85.github.io/daily_html/ 
 - 📫 How to reach me ...
-- 🕸️ https://mwe85.github.io/daily_html/ 
+- 🕸️ 
 
 <!---
 mwe85/mwe85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
